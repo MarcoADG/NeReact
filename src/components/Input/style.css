@@ -1,0 +1,30 @@
+.formularios {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  margin: 5px;
+  padding: 10px;
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+  border-radius: 6px;
+  border-color: lightgray;
+}
+
+.formulario1 {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+  border-radius: 6px;
+  border-color: lightgray;
+  margin-bottom: 10px;
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-around;
+}
